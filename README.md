@@ -9,5 +9,20 @@ This project is an attempt to clone the Disney+ App. It is so far built with Rea
 ![App Screenshot](screenshort/Screenshot3.png)
 
 
+## Usage
 
+To start the development server run the following command :
+
+# Server back-end
+```bash
+cd Server
+
+npm start 
+```
+# Todolist front-end
+```bash
+cd todolist
+
+npm npm run dev 
+```
 

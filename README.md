@@ -9,6 +9,17 @@ This project is an attempt to clone the Disney+ App. It is so far built with Rea
 ![App Screenshot](screenshort/Screenshot3.png)
 
 
+## Key Features
+
+### Home Page
+
+- React.js.
+- Node.js.
+- CSS5.
+- Express.js.
+- MongoDB compress.
+
+
 ## Usage
 
 Install the dependencies using npm
@@ -31,5 +42,6 @@ cd todolist
 
 npm npm run dev 
 ```
+
 
 

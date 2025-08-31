@@ -4,7 +4,10 @@
 
 ## About The Project
 
-This project is an attempt to clone the Disney+ App. It is so far built with React, Redux Toolkit, React Router, Tanstack Query, Vite, styled components, Material UI, Framer Motion, Firebase, the TMDB API and other third-party libraries such as React Spinners. Moreover, it is fully responsive and follows the mobile-first concept.
+Todo list website is an application or web-based tool that helps users manage tasks by providing a digital platform for creating, organizing, and tracking tasks, deadlines, priorities, and related information, often using features like categorization, tags, and due dates
+
+###Project Management:
+Can break down large goals into smaller, more manageable steps, showing progress along the way. 
 
 ![App Screenshot](screenshort/Screenshot1.png)
 ![App Screenshot](screenshort/Screenshot2.png)
@@ -44,6 +47,7 @@ cd todolist
 
 npm npm run dev 
 ```
+
 
 
 

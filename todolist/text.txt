@@ -1,0 +1,5 @@
+npm create vite@latest
+
+ cd todolist
+  npm install
+run:-  npm run dev

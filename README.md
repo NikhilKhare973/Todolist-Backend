@@ -1,4 +1,6 @@
-﻿# Todolist-Backend
+ # Getting Started with Create React App
+﻿# Todolist-Backend 
+ # It is a Full stack web application
 
 ## About The Project
 
@@ -42,6 +44,7 @@ cd todolist
 
 npm npm run dev 
 ```
+
 
 
 
